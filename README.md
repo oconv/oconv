@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Owen Convery!
 
-I am an Electrical Engineering student at the University of California, Santa Barbara. I am originally from Northern California 🌲➡️🌴
+I am an Electrical Engineering student at the University of California, Santa Barbara, originally from Northern California 🌲➡️🌴
 
 ### Skills that I'm developing 👨‍💻
 
